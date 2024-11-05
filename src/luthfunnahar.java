@@ -9,5 +9,7 @@ public class luthfunnahar {
         Scanner scanner= new Scanner(System.in);
         System.out.println("This is me: Luthfun Nahar");
         String message = scanner.nextLine();
+        System.out.println ("Again Hello");
+        scanner.close();
     }
 }
